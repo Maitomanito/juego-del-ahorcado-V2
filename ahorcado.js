@@ -110,3 +110,4 @@ function inicio() {
 
 // Iniciar
 window.onload = inicio();
+// // // revisar yajustar
